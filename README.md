@@ -3,8 +3,11 @@
 I have knowledge about:
 
 -BBDD
+
 -Java
+
 -JavaScript
+
 -Html and CSS
 
 I am currently studying, which the list is not finished and will grow progressively
