@@ -1,16 +1,7 @@
-## Hi my name is Ivan Sierra, I`m 18 years old, I am a Student of DAM,👋
+## Hola ✋ mi nombre es Ivan Sierra, mas conocido como Sierra, Actualmente estoy cursando el ultimo curso de Desarrollo de Aplicaciones Multiplataforma.
 
-I have knowledge about:
+Este es mi perfil de GitHub, aqui encontraras mis pequeños proyectos basados de distintas cosas que he ido haciendo a lo largo que he ido aprendiendo en el mundo de la programacion y bbdd.
 
--BBDD
-
--Java
-
--JavaScript
-
--Html and CSS
-
-I am currently studying, which the list is not finished and will grow progressively
 
 
 
