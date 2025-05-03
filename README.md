@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Sobre mi:<br>Hola ✋ mi nombre es Ivan Sierra, mas conocido como Sierra.<br><br>Actualmente estoy cursando el ultimo curso de Desarrollo de Aplicaciones Multiplataforma.<br><br>Este es mi perfil de GitHub, aquí encontraras mis pequeños proyectos basados de distintas cosas que he ido haciendo a lo largo que he ido aprendiendo en el mundo de la programación y BBDD.
 
 
